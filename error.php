@@ -10,7 +10,7 @@ session_start();
 </head>
 <body>
 <div class="form">
-    <h1>Error</h1>
+    <h1>Error rror </h1>
     <p>
     <?php 
     if( isset($_SESSION['message']) AND !empty($_SESSION['message']) ): 
